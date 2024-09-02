@@ -70,3 +70,15 @@ hr {
 .fsize-32 {
   font-size: 32px;
 }
+
+.btn-grey:active {
+  background-color: green;
+}
+
+.btn-darker-grey:active {
+  background-color: red;
+}
+
+.btn-send-feedback:active {
+  background-color: aqua;
+}
